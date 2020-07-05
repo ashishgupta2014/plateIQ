@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c6ec1b8.chunk.css",
-    "main.js": "/static/js/main.3cfead7a.chunk.js",
-    "main.js.map": "/static/js/main.3cfead7a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dacfeb72.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dacfeb72.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.5b696c8b.chunk.js": "/static/js/2.5b696c8b.chunk.js",
-    "static/js/2.5b696c8b.chunk.js.map": "/static/js/2.5b696c8b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ace6228d05ee76eb4325d15f293f2f06.js": "/precache-manifest.ace6228d05ee76eb4325d15f293f2f06.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.6c6ec1b8.chunk.css.map": "/static/css/main.6c6ec1b8.chunk.css.map",
-    "static/js/2.5b696c8b.chunk.js.LICENSE.txt": "/static/js/2.5b696c8b.chunk.js.LICENSE.txt",
-    "static/media/02.png": "/static/media/02.69ab1ec7.png"
+    "main.css": "/plateIQ/static/css/main.6c6ec1b8.chunk.css",
+    "main.js": "/plateIQ/static/js/main.45be027b.chunk.js",
+    "main.js.map": "/plateIQ/static/js/main.45be027b.chunk.js.map",
+    "runtime-main.js": "/plateIQ/static/js/runtime-main.3f2cbd40.js",
+    "runtime-main.js.map": "/plateIQ/static/js/runtime-main.3f2cbd40.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/plateIQ/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.5b696c8b.chunk.js": "/plateIQ/static/js/2.5b696c8b.chunk.js",
+    "static/js/2.5b696c8b.chunk.js.map": "/plateIQ/static/js/2.5b696c8b.chunk.js.map",
+    "index.html": "/plateIQ/index.html",
+    "precache-manifest.8503e03eb3d2a472bfa0fb7108813fa4.js": "/plateIQ/precache-manifest.8503e03eb3d2a472bfa0fb7108813fa4.js",
+    "service-worker.js": "/plateIQ/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/plateIQ/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.6c6ec1b8.chunk.css.map": "/plateIQ/static/css/main.6c6ec1b8.chunk.css.map",
+    "static/js/2.5b696c8b.chunk.js.LICENSE.txt": "/plateIQ/static/js/2.5b696c8b.chunk.js.LICENSE.txt",
+    "static/media/02.png": "/plateIQ/static/media/02.69ab1ec7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dacfeb72.js",
+    "static/js/runtime-main.3f2cbd40.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.5b696c8b.chunk.js",
     "static/css/main.6c6ec1b8.chunk.css",
-    "static/js/main.3cfead7a.chunk.js"
+    "static/js/main.45be027b.chunk.js"
   ]
 }

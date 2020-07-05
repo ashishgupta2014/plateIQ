@@ -1,0 +1,61 @@
+[data-toggle="collapse"] .fa:before {  
+    content: "\f139";
+  }
+  
+  [data-toggle="collapse"].collapsed .fa:before {
+    content: "\f13a";
+  }
+.cheese {
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.invoice1 {
+  padding: 2% 0;
+  border-top: 1px solid #d8d6d6;
+  border-bottom: 1px solid #d8d6d6;
+}
+
+.invoice2 {
+  padding: 2% 0;
+  border-bottom: 1px solid #d8d6d6;
+}
+
+.invoiceheaderfont {
+  font-size: 12px; 
+  color:rgb(195, 192, 192);
+  font-weight: bold
+}
+
+.invoicevaluefont {
+  font-size: 15px; 
+  font-weight: bold
+}
+
+.invoicenumberfont {
+  font-size: 15px; 
+  color:rgb(195, 192, 192);
+  font-weight: bold
+}
+
+.invoicevendor{
+  color: rgb(81, 215, 191);
+  font-weight: bold;
+  margin: 0px 0px 13px 0px;
+}
+
+.comment{
+  margin-top: 17px;
+  font-size: 12px; 
+  color:rgb(195, 192, 192);
+  font-weight: bold
+}
+
+.commenttext{
+  margin-left: 16px;
+}
+
+.hightlightvalue{
+  font-size: 20px;
+  margin-left: 7px;;
+}

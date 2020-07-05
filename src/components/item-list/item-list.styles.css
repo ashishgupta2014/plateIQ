@@ -1,0 +1,19 @@
+.subtitle{
+    color: rgb(186,186,186);
+    font-weight: bold;
+}
+
+.title{
+    margin-bottom: 0%;
+}
+
+.listrow{
+    border-top: 1px solid #d8d6d6;
+    background-color:#FAFAFA;
+    padding-top: 3%;
+    padding-bottom: 3%;
+   
+}
+.quantity{
+    padding-left: 62px;
+}
